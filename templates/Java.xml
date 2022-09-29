@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="author" value="/**&#10; * @Author: 何金洺&#10; * @Date: $DATE$&#10; * @Description:&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
