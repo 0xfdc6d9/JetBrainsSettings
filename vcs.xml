@@ -1,27 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.insta360.com" />
-          <option name="userName" value="hejinming@insta360.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.insta360.com/server/infr/infr-base.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.insta360.com/server/compass/compass-parent.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.insta360.com/server/infr/infr-user.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>
